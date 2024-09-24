@@ -1,2 +1,2 @@
 # MobileDevCourse
- My little projects related to the class
+ My little projects related to the mobile development class
