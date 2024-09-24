@@ -19,7 +19,7 @@ const Page1: React.FC = () => {
             </IonButtons>
           <IonTitle>Page1</IonTitle>
         </IonToolbar>
-            <IonTitle size="large">Page1</IonTitle>
+            <IonTitle size="small">Welcome</IonTitle>
         </IonHeader>
         <IonContent className='ion-padding'>
           <IonButton routerLink="/app/Page1/details" expand="full">

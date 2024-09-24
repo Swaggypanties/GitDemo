@@ -19,7 +19,7 @@ import { IonBackButton, IonButton,
               </IonButtons>
             <IonTitle>My Details</IonTitle>
           </IonToolbar>
-              <IonTitle size="large">Details</IonTitle>
+              <IonTitle size="small">Details</IonTitle>
           </IonHeader>
           <IonContent className='ion-padding'>
             <IonButton routerLink="/app/page1" expand="full">

@@ -22,7 +22,7 @@ const Login: React.FC = () => {
         </IonButton>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Blank</IonTitle>
+            <IonTitle size="small">Ready to start your journey?</IonTitle>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer />
